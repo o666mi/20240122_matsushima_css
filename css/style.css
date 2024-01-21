@@ -1,0 +1,44 @@
+.tag {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tag header {
+    font-size: 20px;
+    font-weight: bold;
+    color: #00277E;
+}
+.tag ul {
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+}
+.tag li {
+    list-style: none;
+}
+.tag a {
+    text-decoration: none;
+    padding: 10px;
+    color: #00277E;
+}
+.relative {
+    position: relative;
+    top: 300px;
+}
+.blue-line {
+    width: 1000px;
+    height: 150px;
+    background-color: #00277E;
+}
+.absolute__img {
+    position: absolute;
+    width: 700px;
+    height: 500px;
+    top: 145px;
+    left: 700px;
+}
+p {
+    position: relative;
+    font-size: 50px;
+    top: 65px;
+}
