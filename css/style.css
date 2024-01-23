@@ -30,14 +30,14 @@ p {
     font-size: 50px;
 }
 img {
-    position:;
-    width: 50%;
-    margin: 0% 0% 0% 50%;
-}
-.blue-line {
     position: relative;
-    width: 1000px;
-    height: 150px;
+    width: 50%;
+    margin-left: 50%;
+}
+.line {
     background-color: #00277E;
+    position: absolute;
+    width: 70%;
+    height: 150px;
 }
 
